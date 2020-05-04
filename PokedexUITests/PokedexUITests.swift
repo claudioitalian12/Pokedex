@@ -2,7 +2,7 @@
 //  PokedexUITests.swift
 //  PokedexUITests
 //
-//  Created by claudio cavalli on 30/04/2020.
+//  Created by claudio cavalli on 01/05/2020.
 //  Copyright © 2020 claudio cavalli. All rights reserved.
 //
 
@@ -15,8 +15,6 @@ class PokedexUITests: XCTestCase {
 
         // In UI tests it is usually best to stop immediately when a failure occurs.
         continueAfterFailure = false
-
-        // In UI tests it’s important to set the initial state - such as interface orientation - required for your tests before they run. The setUp method is a good place to do this.
     }
 
     override func tearDownWithError() throws {
